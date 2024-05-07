@@ -1,0 +1,4 @@
+﻿n
+"(:Poet {deathYear: 762,birthYear: 701,name: ""李白"",bio: ""唐代著名诗人，人称‘诗仙’，以其豪放洒脱和想象丰富的诗歌著称，对后世有极深的影响。"",influence: ""深远"",worksCount: ""超过1000首""})"
+"(:Poet {deathYear: 770,birthYear: 712,name: ""杜甫"",bio: ""唐代著名诗人，被誉为‘诗圣’，以其现实主义风格著称，深刻描绘了社会现实和人民苦难。"",influence: ""深远"",worksCount: ""超过1400首""})"
+"(:Poet {birthYear: 701,deathYear: 761,name: ""王维"",bio: ""唐代著名诗人兼画家，以其写景抒情的诗歌闻名，被誉为‘诗佛’，作品中融合了深刻的哲理。"",worksCount: ""数百首"",influence: ""深远""})"
